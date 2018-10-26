@@ -5,7 +5,8 @@
 <h2> AWS & DevOps training </h2>
 <h2> Happy learning </h2>
 <h2> Happy learning </h2>
-JAI SRI RAM
-NAVEEN MADASI
- jai hanuman
-JAI Badrakali
+<h2>JAI SRI RAM </h2>
+<h2>NAVEEN MADASI</h2>
+<h2>jai hanuman </h2>
+<h2>JAI Badrakali </h2>
+<h2>JAI BHAVANI </h2>
